@@ -5,7 +5,7 @@
 
 
 <a href="http://ssmportal.cersgis.org/">
-  <img src="https://github.com/ernest19/Charcoal-Production/blob/main/img/intro.png" width="800">
+  <img src="https://github.com/ernest19/Charcoal-Production/blob/main/img/overview.png" width="800">
 </a><br>
 
 
