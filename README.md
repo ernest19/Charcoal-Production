@@ -38,8 +38,7 @@ Field campaign carried out by CERSGIS in November 2020. Guided by the informatio
 from the analysis of the high-resolution imagery, field crew visited active kilns, kilns under
 construction and recent kiln scars in charcoal production zones of the study area. At each
 location, they registered the location and dimensions of the kiln or kiln scar. A total of 118 sites
-were visited. The information collected in the field served to calibrate aboveground biomass
-removals at kiln level.
+were visited.
 
-<img src="https://github.com/ernest19/Monitoring-Artisinal-Mining/blob/main/img/flowchart.png">
+<img src="https://github.com/ernest19/Charcoal-Production/blob/main/img/flowchart.png">
 
