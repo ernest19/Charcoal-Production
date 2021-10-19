@@ -1,6 +1,6 @@
 ## CHARCOAL PRODUCTION SITE MONITORING SERVICE FOR WEST GONJA DISTRICT IN GHANA
 
-![MONITORING CHARCOAL PRODUCTION SITE](https://img.shields.io/static/v1?label=CHARCOAL&message=PRODUCTION&color=blue)
+![MONITORING CHARCOAL PRODUCTION SITE](https://img.shields.io/static/v1?label=CHARCOAL&message=PRODUCTION%MONITORING&color=blue)
 
 
 
@@ -36,4 +36,9 @@ location, they registered the location and dimensions of the kiln or kiln scar. 
 were visited.
 
 <img src="https://github.com/ernest19/Charcoal-Production/blob/main/img/flowchart.png">
+
+
+### Link to Script
+
+- [Earth Engine Script ](https://code.earthengine.google.com/8695c5f1c2dd51d4c0aac9b008154776)
 
