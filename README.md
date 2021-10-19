@@ -22,8 +22,6 @@ The Charcoal Production Site Monitoring Service is a web-based platform for visu
 
 ### Data and Data Processing
 
-#### High-resolution imagery
-
 We compiled a dataset of high-resolution imagery from the Planet archive to provide annual
 coverage of the woodlands of the study area for each year between 2018 and 2020. The
 dataset included 65 multispectral PlanetScope images (3 m), orthorectified, radiance, and
@@ -31,9 +29,6 @@ radiometric, geometric and atmospherically corrected (Level 3B) (PlanetLabs Inc,
 cloud coverage below 5 % acquired window from March to May. The images provided annual
 coverage of the charcoal production zones of the study area for each year between 2018 and
 2020.
-
-#### Field data
-
 Field campaign carried out by CERSGIS in November 2020. Guided by the information obtained
 from the analysis of the high-resolution imagery, field crew visited active kilns, kilns under
 construction and recent kiln scars in charcoal production zones of the study area. At each
