@@ -40,5 +40,5 @@ were visited.
 
 ### Link to Script
 
-- [Earth Engine Script ](https://code.earthengine.google.com/8695c5f1c2dd51d4c0aac9b008154776)
+- [Earth Engine Script ]()
 
