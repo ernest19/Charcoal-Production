@@ -40,5 +40,7 @@ were visited.
 
 ### Link to Script
 
-- [Earth Engine Script ]()
+- [Script for kilns or scar extraction](https://code.earthengine.google.com/28b21c3c87efe18365ea49688fc8494c)
+- [Script for cultivated map estimation](https://code.earthengine.google.com/32d238726dc9a430b3acbba4cebaf0a9 )
+- [Script for masking riparian areas](https://code.earthengine.google.com/a3d173fdba54a8dcafb2a50b833f82f5 )
 
