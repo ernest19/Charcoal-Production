@@ -41,7 +41,7 @@ were visited.
 ### Overview 
 
 <a href="https://youtu.be/oow5wVveL6o">
-  <img src="https://github.com/ernest19/Charcoal-Production/blob/main/img/video.png" width="800">
+  <img src="https://github.com/ernest19/Charcoal-Production/blob/main/img/video1.png" width="800">
 </a><br>
 
 
