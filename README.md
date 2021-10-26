@@ -38,6 +38,14 @@ were visited.
 <img src="https://github.com/ernest19/Charcoal-Production/blob/main/img/flowchart.png">
 
 
+### Overview 
+
+<a href="https://youtu.be/oow5wVveL6o">
+  <img src="https://github.com/ernest19/Charcoal-Production/blob/main/img/video.png" width="800">
+</a><br>
+
+
+
 ### Link to Script
 
 - [Script for kilns or scar extraction](https://code.earthengine.google.com/98747a898c4f71752c024b4a1fd46d03 )
